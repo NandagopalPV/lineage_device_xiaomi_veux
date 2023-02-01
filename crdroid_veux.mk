@@ -14,7 +14,7 @@ $(call inherit-product, vendor/lineage/config/common_full_phone.mk)
 # Inherit from veux device
 $(call inherit-product, device/xiaomi/veux/device.mk)
 
-PRODUCT_NAME := lineage_veux
+PRODUCT_NAME := crdroid_veux
 PRODUCT_DEVICE := veux
 PRODUCT_MANUFACTURER := Xiaomi
 PRODUCT_BRAND := POCO
